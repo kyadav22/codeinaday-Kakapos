@@ -1,2 +1,2 @@
-# codeinaday-Kakapos
+# codeinaday-Karuna
 pottery website 
